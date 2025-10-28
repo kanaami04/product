@@ -1,1 +1,1 @@
-new product
+headlessCMS
